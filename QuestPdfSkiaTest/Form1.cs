@@ -20,7 +20,7 @@ namespace QuestPdfSkiaTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            QuestPDF.Settings.License = LicenseType.Professional;
+            QuestPDF.Settings.License = LicenseType.Community;
         }
     }
 }
